@@ -11,6 +11,7 @@
 - clone this project
 - composer install
 - change .env.example to .env
+- run php artisan serve
 - migrate the database
 
 ## About Laravel
